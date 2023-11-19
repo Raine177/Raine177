@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate and driven software developer from the UK. <br>I'm 21 years old.<br>I am currently developing a Discord bot for a mental health server.
+I'm a passionate and driven software developer from the UK. <br>I'm 21 years old.<br>I am currently developing a Discord bot & iOS Application for a mental health community.
 
 
 # 💻 Tech Stack:
